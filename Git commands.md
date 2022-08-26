@@ -81,4 +81,5 @@ For example:
 
 ## Branching in git
 
-The end
+
+## The end
