@@ -78,5 +78,6 @@ To add pictures write "![comment](file name.ext):
 For example:
 ![Hi, I'm Ducky](Duck.png)
 
+## Branching in git
 
 The end
