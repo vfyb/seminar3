@@ -99,7 +99,7 @@ Branches in GIT is a __"sandbox"__ for working with a *part of file*. It doesn't
 
 Show *all branches* and *active branch*:
 
-    git branch
+    git branch 123124
 
 *Create* branch:
 
