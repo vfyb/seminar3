@@ -89,11 +89,11 @@ Result will be look like this:
 
 ## Branching in git
 
-Branch description:
+### Branch description:
 
 Branches in GIT is a "sandbox" for working with a part of file. It doesn't change the main file if switch to it from master branch.
 
-Commands:
+### Commands:
 
 Show all branches and active branch:
 
