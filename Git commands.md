@@ -81,7 +81,6 @@ For example:
 
 ## Branching in git
 
-Описание ветвление
 Branch description:
 
 Branches in GIT is a "sandbox" for working with a part of file. It doesn't change the main file if switch to it from master branch.
