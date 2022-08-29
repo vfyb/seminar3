@@ -6,7 +6,7 @@ Initilize *new repository* (folder with files which will be tracked by GIT):
     git init
 
 ## Status 
-Показывает *текущий статус* (что удалено, изменено и т.д.):
+Show *current status* (deleted, changed etc.):
 
     git status
 
