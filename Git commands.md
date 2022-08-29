@@ -99,6 +99,14 @@ Switch to branch:
 
     git checkout <branch_name>
 
+After working in any branch you can merge it to the master. Switch to master baranch first and write this command:
+
+    git merge <branch_name>
+
+After that you can delete this branch:
+
+    git branch -d <branch_name>
+
 
 
 ## The end
