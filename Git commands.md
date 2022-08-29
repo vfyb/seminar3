@@ -88,8 +88,18 @@ Branches in GIT is a "sandbox" for working with a part of file. It doesn't chang
 
 Commands:
 
-Show all branches:
+Show all branches and active branch:
 
     git branch
+
+Create branch:
+
+    git branch <branch_name>
+
+Switch to branch:
+
+    git checkout <branch_name>
+
+
 
 ## The end
