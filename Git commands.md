@@ -75,7 +75,7 @@ Open *separate window*, where you can write commit:
 
 ## Pictures
 
-To add pictures write 
+To *add pictures* write 
 
     ![comment](file name.ext)
 
@@ -93,29 +93,29 @@ Result will be look like this:
 
 ### Branch description:
 
-Branches in GIT is a "sandbox" for working with a part of file. It doesn't change the main file if switch to it from master branch.
+Branches in GIT is a __"sandbox"__ for working with a *part of file*. It doesn't change the main file if switch to it from master branch.
 
 ### Commands:
 
-Show all branches and active branch:
+Show *all branches* and *active branch*:
 
     git branch
 
-Create branch:
+*Create* branch:
 
     git branch <branch_name>
 
-Switch to branch:
+*Switch* to branch:
 
     git checkout <branch_name>
 
-After working in any branch you can merge it to the master. Switch to master branch first and write this command:
+After working in any branch you can **merge** it to the master or another branch. Switch to **target branch** first and write this command:
 
     git merge <branch_name>
 
-You can see some conflicts at that moment, such as difference of text versions of two branches in the same part of text. So you can add all versions or/and change and combine them into one correct.
+You can see some **conflicts** at that moment, such as *difference* of text versions of two branches in the same part of text. So you can **add all versions or/and change and combine them into one correct**.
 
-After that you can delete this branch:
+After that you can __delete__ this branch:
 
     git branch -d <branch_name>
 
