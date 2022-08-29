@@ -83,6 +83,8 @@ For example:
 
     ![Hi, I'm Ducky](Duck.png)
 
+And be sure
+
 Result will be look like this:
 
 ![Hi, I'm Ducky](Duck.png)
