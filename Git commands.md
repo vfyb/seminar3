@@ -20,15 +20,15 @@ Show *current status* (deleted, changed etc.):
 
     git commit
 
-Better use this command. Here *you create commit*, and then write *description*:
+Better use this command. Here *you create commit* and write *description*:
 
     git commit -m "What was changed"
 
-Можно добавить файл и создать commit *в одной строке* (пока лучше не делать)...:
+You can add new version and create commit *in one line* (__don't use it for now!__)...:
    
     git commit -a
 
-... и добавить комментарий:
+... and add the description:
     
     git commit -am "What was changed"
 
