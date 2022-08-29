@@ -1,7 +1,7 @@
 # **Git commands**
 
 ## Initialization
-Инициализирует *новый репозиторий* (папка в которой лежат файлы для отслеживания):
+Initilize *new repository* (folder with files which will be tracked by GIT):
 
     git init
 
