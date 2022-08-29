@@ -20,7 +20,7 @@ Show *current status* (deleted, changed etc.):
 
     git commit
 
-Но лучше делать этот вариант. Здесь *создается commit*, после которого в скобках написать *описание изменений*:
+Better use this command. Here *you create commit*, and then write *description*:
 
     git commit -m "What was changed"
 
