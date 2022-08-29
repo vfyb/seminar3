@@ -75,15 +75,15 @@ You can add new version and create commit *in one line* (__don't use it for now!
 
 ## Pictures
 
-To *add pictures* write 
+To *add pictures* write this command:
 
-    ![comment](file name.ext)
+    ![some_comment](file_name.ext)
 
 For example:
 
     ![Hi, I'm Ducky](Duck.png)
 
-And be sure
+Be sure that you write <file_name> exactly the same like it named (considering the *case* for example).
 
 Result will be look like this:
 
