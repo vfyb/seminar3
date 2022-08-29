@@ -83,6 +83,8 @@ For example:
 
     ![Hi, I'm Ducky](Duck.png)
 
+Be sure that you write <file_name> exactly the same like it named (considering the *case* for example).
+
 Result:
 
 ![Hi, I'm Ducky](Duck.png)
