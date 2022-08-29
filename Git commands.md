@@ -91,7 +91,7 @@ Result will be look like this:
 
 Branch description:
 
-Branches in GIT is a "sandbox" for working with a part of file or/and create alternative version of this part. It doesn't change the main file if switch to it from master branch.
+Branches in GIT is a "sandbox" for working with a part of file or/and create alternative version of this part. It doesn't change the main file if switch to it from master (or other) branch.
 
 Commands:
 
