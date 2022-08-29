@@ -81,6 +81,10 @@ To add pictures write
 
 For example:
 
+    ![Hi, I'm Ducky](Duck.png)
+
+Result:
+
 ![Hi, I'm Ducky](Duck.png)
 
 ## Branching in git
