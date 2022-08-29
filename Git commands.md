@@ -11,12 +11,12 @@
     git status
 
 ## Add
-After save add *new version* for traccking. **After "add" command next will be "commit" with description of changes**:
+After save add *new version* for tracking. **After "add" command next will be "commit" with description of changes**:
 
     git add file_name
 
 ## Commit
-Открывает *отдельное окно*, где можно написать commit:
+Open *separate window*, where you can write commit:
 
     git commit
 
