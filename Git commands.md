@@ -11,7 +11,7 @@
     git status
 
 ## Add
-После сохранения изменений добавляет *новую версию* для отслеживания. **После добавления нужно делать commit с описанием изменений**:
+After save add *new version* for traccking. **After "add" command next will be "commit" with description of changes**:
 
     git add file_name
 
