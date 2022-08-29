@@ -115,6 +115,6 @@ After that you can delete this branch:
 
     git branch -d <branch_name>
 
-Be sure that you delete all branches which you merge to another and don't need them further. 
+**Be sure** that you **delete all branches** which you merge to another and **don't need them further**. 
 
 ## The end
