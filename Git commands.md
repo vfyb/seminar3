@@ -1,12 +1,12 @@
 # **Git commands**
 
 ## Initialization
-Инициализирует *новый репозиторий* (папка в которой лежат файлы для отслеживания):
+Initilize *new repository* (folder with files which will be tracked by GIT):
 
     git init
 
 ## Status 
-Показывает *текущий статус* (что удалено, изменено и т.д.):
+Show *current status* (deleted, changed etc.):
 
     git status
 
@@ -20,15 +20,15 @@ Open *separate window*, where you can write commit:
 
     git commit
 
-Но лучше делать этот вариант. Здесь *создается commit*, после которого в скобках написать *описание изменений*:
+Better use this command. Here *you create commit* and write *description*:
 
     git commit -m "What was changed"
 
-Можно добавить файл и создать commit *в одной строке* (пока лучше не делать)...:
+You can add new version and create commit *in one line* (__don't use it for now!__)...:
    
     git commit -a
 
-... и добавить комментарий:
+... and add the description:
     
     git commit -am "What was changed"
 
@@ -69,7 +69,7 @@ Open *separate window*, where you can write commit:
 
 ##Q
 
-*Для выхода из разных режимов*, когда не показывается строка для ввода команд, жмем:
+*For quit from different regimes*, when can't enter the command, press:
 
     q
 
