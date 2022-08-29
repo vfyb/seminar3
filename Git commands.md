@@ -93,13 +93,13 @@ Result will be look like this:
 
 ### Branch description:
 
-Branches in GIT is a __"sandbox"__ for working with a *part of file*. It doesn't change the main file if switch to it from master branch.
+Branches in GIT is a __"sandbox"__ for working with a *part of file* or/and create *alternative version* of this part. It doesn't change the main file if switch to it from master (or other) branch, it just create alternative version.
 
 ### Commands:
 
 Show *all branches* and *active branch*:
 
-    git branch 123124
+    git branch 
 
 *Create* branch:
 
@@ -119,6 +119,6 @@ After that you can __delete__ this branch:
 
     git branch -d <branch_name>
 
-
+**Be sure** that you **delete all branches** which you merge to another and **don't need them further**. 
 
 ## The end
