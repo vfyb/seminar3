@@ -113,7 +113,7 @@ After working in any branch you can merge it to the master. Switch to master bra
 
 You can see some conflicts at that moment, such as difference of text versions of two branches in the same part of text. So you can add all versions or/and change and combine them into one correct.
 
-After that you can delete this branch:
+After that you can __delete__ this branch:
 
     git branch -d <branch_name>
 
