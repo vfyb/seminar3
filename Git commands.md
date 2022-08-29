@@ -69,7 +69,7 @@ You can add new version and create commit *in one line* (__don't use it for now!
 
 ##Q
 
-*Для выхода из разных режимов*, когда не показывается строка для ввода команд, жмем:
+*For quit from different regimes*, when can't enter the command, press:
 
     q
 
