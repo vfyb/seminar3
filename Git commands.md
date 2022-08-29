@@ -75,7 +75,10 @@
 
 ## Pictures
 
-To add pictures write "![comment](file name.ext):
+To add pictures write 
+
+    ![comment](file name.ext)
+
 For example:
 ![Hi, I'm Ducky](Duck.png)
 
