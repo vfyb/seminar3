@@ -111,7 +111,7 @@ After working in any branch you can merge it to the master. Switch to master bra
 
     git merge <branch_name>
 
-You can see some conflicts at that moment, such as difference of text versions of two branches in the same part of text. So you can add all versions or/and change and combine them into one correct.
+You can see some **conflicts** at that moment, such as *difference* of text versions of two branches in the same part of text. So you can **add all versions or/and change and combine them into one correct**.
 
 After that you can __delete__ this branch:
 
