@@ -83,7 +83,7 @@ For example:
 
     ![Hi, I'm Ducky](Duck.png)
 
-Result:
+Result will be look like this:
 
 ![Hi, I'm Ducky](Duck.png)
 
