@@ -123,4 +123,6 @@ After that you can __delete__ this branch:
 
 ## Remote repo
 
+Remote repo need for...
+
 ## The end
